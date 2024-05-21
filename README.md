@@ -2,6 +2,8 @@
 
 Run a "super-human" AI from the year 2124 in your terminal with only three lines of code, today!
 
+![DomoArigato cutesy profile picture](DomoArigato.jpeg)
+
 ## Background information
 
 This repository assumes you've read
@@ -17,7 +19,7 @@ ai.run()
 These three lines of code are all that is necessary to run a super-human level AI in 2124 (or a ChatGPT-like AI in
 2024). See for yourself!
 
-![alt text](DomoArigato.png)
+![DomoArigato chat example](DomoArigato.png)
 
 ## Requirements
 
