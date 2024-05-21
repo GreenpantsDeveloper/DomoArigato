@@ -31,3 +31,13 @@ These three lines of code are all that is necessary to run a super-human level A
 ## How to run
 
 That's the neat part: you'll only need those three lines of code. See or run `domo_arigato.py` for an example.
+
+## Pipeline
+
+Here is the pipeline showcasing the project's complexity:
+
+```mermaid
+stateDiagram-v2
+    You --> DomoArigato: your basic human message
+    DomoArigato --> You: their super-human AI-generated message
+```
